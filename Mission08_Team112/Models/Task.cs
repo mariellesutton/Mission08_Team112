@@ -1,6 +1,6 @@
 namespace Mission08_Team112.Models;
+using System.ComponentModel.DataAnnotations;
 
-{
     public class Category
     {
         [Key]
@@ -30,4 +30,3 @@ namespace Mission08_Team112.Models;
 
         public bool Completed { get; set; } = false;
     }
-}
