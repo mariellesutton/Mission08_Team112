@@ -38,6 +38,7 @@
                                     <th>Task</th>
                                     <th style="width:160px;">Due</th>
                                     <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -47,6 +48,21 @@
                                     <td>@t.TaskName</td>
                                     <td>@Due(t.DueDate)</td>
                                     <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
                                 </tr>
                             }
                             </tbody>
@@ -73,6 +89,7 @@
                                     <th>Task</th>
                                     <th style="width:160px;">Due</th>
                                     <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -82,6 +99,21 @@
                                     <td>@t.TaskName</td>
                                     <td>@Due(t.DueDate)</td>
                                     <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
                                 </tr>
                             }
                             </tbody>
@@ -108,6 +140,7 @@
                                     <th>Task</th>
                                     <th style="width:160px;">Due</th>
                                     <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -117,6 +150,21 @@
                                     <td>@t.TaskName</td>
                                     <td>@Due(t.DueDate)</td>
                                     <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
                                 </tr>
                             }
                             </tbody>
@@ -143,6 +191,7 @@
                                     <th>Task</th>
                                     <th style="width:160px;">Due</th>
                                     <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -152,6 +201,21 @@
                                     <td>@t.TaskName</td>
                                     <td>@Due(t.DueDate)</td>
                                     <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
                                 </tr>
                             }
                             </tbody>

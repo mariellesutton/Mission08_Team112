@@ -29,4 +29,6 @@ using System.ComponentModel.DataAnnotations;
         public Category? Category { get; set; }
 
         public bool Completed { get; set; } = false;
+        
+        
     }

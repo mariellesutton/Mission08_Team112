@@ -1,0 +1,19 @@
+@using MissionTask = Mission08_Team112.Models.Task
+@model MissionTask
+
+@{
+    ViewData["Title"] = "Delete Task";
+}
+
+<h2 class="mb-3">Delete Task</h2>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete <strong>@Model.TaskName</strong>?
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.TaskId" />
+
+    <button class="btn btn-danger" type="submit">Yes, delete</button>
+    <a class="btn btn-secondary" asp-action="Quadrants">Cancel</a>
+</form>
