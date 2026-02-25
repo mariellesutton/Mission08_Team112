@@ -9,5 +9,11 @@ public class TaskController : Controller
     {
         return View();
     }
+    
+    public IActionResult Quadrants()
+    {
+        // return View(tasks);  // pass IEnumerable<Task>
+        return View();
+    }
 }
 
