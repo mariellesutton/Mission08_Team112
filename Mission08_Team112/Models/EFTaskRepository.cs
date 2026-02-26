@@ -42,7 +42,7 @@ public class EFTaskRepository : ITaskRepository
     public Task GetTaskById(int id) =>
         _context.Tasks.Include(t => t.Category).FirstOrDefault(t => t.TaskId == id);
 
-    public void MarkTaskComplete(int id)
+    public void MarkComplete(int id)
     {
         var task = _context.Tasks.Find(id);
         if (task != null)

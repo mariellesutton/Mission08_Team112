@@ -12,5 +12,5 @@ public interface ITaskRepository
     void UpdateTask(Task task);
     void DeleteTask(Task task);
     Task GetTaskById(int id);
-    void MarkTaskComplete(int id);
+    void MarkComplete(int id);
 }
