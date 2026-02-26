@@ -9,126 +9,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="434075fc-29a4-423c-8c12-43c758645cab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/confirmation.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/quadrants.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.runtime.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/0cszu0mylv-{0}-kbrnm935zg-kbrnm935zg.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/1mhrbw4lec-{0}-b7pk76d08c-b7pk76d08c.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/2y6e032fe4-{0}-ub07r2b239-ub07r2b239.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/3ca6xnrmnd-{0}-ttgo8qnofa-ttgo8qnofa.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/3lzwao8pmf-{0}-ilo7uva0vt-ilo7uva0vt.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/491xhzre9g-{0}-lcd1t2u6c8-lcd1t2u6c8.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/4gs7zpgf9x-{0}-rzd6atqjts-rzd6atqjts.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/4n0dmdlzq7-{0}-jfsiqqwiad-jfsiqqwiad.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/5jebm162vc-{0}-87fc7y1x7t-87fc7y1x7t.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/5rn1nozv72-{0}-37tfw0ft22-37tfw0ft22.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/5xroheyghh-{0}-aexeepp0ev-aexeepp0ev.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/658acd7xgx-{0}-61n19gt1b8-61n19gt1b8.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/7u95l7c863-{0}-iovd86k7lj-iovd86k7lj.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/7vckh5pf9l-{0}-63fj8s7r0e-63fj8s7r0e.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/a5p929itsg-{0}-hrwsygsryq-hrwsygsryq.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/bej2ivi01y-{0}-l3n5xuwxn8-l3n5xuwxn8.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/bh4swl3216-{0}-06098lyss8-06098lyss8.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/bve6fsm7ea-{0}-47otxtyo56-47otxtyo56.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/c9kpz0cg1y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/cpczlq8avd-{0}-dxx9fxp4il-dxx9fxp4il.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/ctu1w3t5h4-{0}-ee0r1s7dh0-ee0r1s7dh0.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/d4ne6cii3x-{0}-nvvlpmu67g-nvvlpmu67g.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/de2qjz4x3z-{0}-0j3bgjxly4-0j3bgjxly4.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/dngag9ru9q-{0}-6cfz1n2cew-6cfz1n2cew.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/e8cv4b6y2m-{0}-cosvhxvwiu-cosvhxvwiu.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/evx0xaq2t4-{0}-vr1egmr9el-vr1egmr9el.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/fd4wmn7dqh-{0}-tdbxkamptv-tdbxkamptv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/g683n30cmi-{0}-ag7o75518u-ag7o75518u.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/gdt0acgn26-{0}-bqjiyaj88i-bqjiyaj88i.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/hb3h8ijaep-{0}-4v8eqarkd7-4v8eqarkd7.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/hv7rhqeggn-{0}-notf2xhcfb-notf2xhcfb.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/i8c9a0fcph-{0}-0i3buxo5is-0i3buxo5is.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/jlb91ouuxm-{0}-ft3s53vfgj-ft3s53vfgj.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/k0y9pjkebu-{0}-493y06b0oq-493y06b0oq.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/k66pj6742v-{0}-o1o13a6vjx-o1o13a6vjx.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/kmtrhzqjap-{0}-2z0ns9nrw6-2z0ns9nrw6.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/ks3yyly9z3-{0}-muycvpuwrr-muycvpuwrr.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/l34mc7pkul-{0}-jd9uben2k1-jd9uben2k1.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/lbsf4psw33-{0}-c2jlpeoesf-c2jlpeoesf.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/ll5wyrii3j-{0}-d7shbmvgxk-d7shbmvgxk.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/m11ep51ozz-{0}-xzw0cte36n-xzw0cte36n.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/mumuqpfl7o-{0}-v0zj4ognzu-v0zj4ognzu.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/np5wmm76xh-{0}-8een3te83c-8een3te83c.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/ot39wuoir7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/pdnrruzr6c-{0}-pj5nd1wqec-pj5nd1wqec.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/ptf4uohaix-{0}-lzl9nlhx6b-lzl9nlhx6b.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/sa00qnzzz2-{0}-6pdc2jztkx-6pdc2jztkx.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/sbwv96582q-{0}-j5mq2jizvt-j5mq2jizvt.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/tzkd7t6e2r-{0}-c2oey78nd0-c2oey78nd0.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/u0afk761ty-{0}-8een3te83c-8een3te83c.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/v2cdgmsqqh-{0}-y7v9cxd14o-y7v9cxd14o.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/vdad08qo1o-{0}-fsbi9cje9m-fsbi9cje9m.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/w2z5dlnndb-{0}-qlccset4i1-qlccset4i1.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/whtsolaexv-{0}-s35ty4nyc5-s35ty4nyc5.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/wt1019a4w9-{0}-erw9l3u2r3-erw9l3u2r3.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/xycj4m52fp-{0}-ausgxo2sd3-ausgxo2sd3.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/y02r79lsll-{0}-46ein0sx1k-46ein0sx1k.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/yjlvp55d06-{0}-lugek5hnai-lugek5hnai.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/yohlq3y5oz-{0}-fr7q2aak1r-fr7q2aak1r.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/yp4p2tw9b5-{0}-h1s4sie4z3-h1s4sie4z3.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/yy61c5paie-{0}-k8d9w2qqmf-k8d9w2qqmf.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/z2fi9yw47h-{0}-jj8uyg4cgr-jj8uyg4cgr.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/z7wdp17a8s-{0}-khv3u5hwcm-khv3u5hwcm.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/compressed/zpk7hlfgiu-{0}-pk9g2wxc8p-pk9g2wxc8p.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/scopedcss/bundle/Mission08_Team112.styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/scopedcss/projectbundle/Mission08_Team112.bundle.scp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/swae.build.ex.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/Mission08_Team112.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Mission08_Team112.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Home/Index.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/quadrants.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjimswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjimswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.development.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,7 +67,10 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
@@ -161,12 +85,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Mission08_Team112: http.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -219,6 +144,7 @@
       <updated>1772037087084</updated>
       <workItem from="1772037089872" duration="6294000" />
       <workItem from="1772122763869" duration="30000" />
+      <workItem from="1772122832491" duration="1800000" />
     </task>
     <servers />
   </component>
