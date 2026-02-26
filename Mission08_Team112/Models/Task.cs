@@ -1,12 +1,14 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Mission08_Team112.Models;
 
-{
+
     public class Category
     {
         [Key]
         [Required]
         public int CategoryId { get; set; }
-        public string CategoryName { get; set; }
+        public required string CategoryName { get; set; }
     }
 
     public class Task
@@ -16,7 +18,7 @@ namespace Mission08_Team112.Models;
         public int TaskId { get; set; }
 
         [Required(ErrorMessage = "Task name is required")]
-        public string TaskName { get; set; }
+        public required string TaskName { get; set; }
 
         public string? DueDate { get; set; }
 
@@ -30,4 +32,3 @@ namespace Mission08_Team112.Models;
 
         public bool Completed { get; set; } = false;
     }
-}
