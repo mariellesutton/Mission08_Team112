@@ -57,14 +57,22 @@ public class TaskController : Controller
         return View(task);
     }
 
+    [HttpGet]
     public IActionResult Delete(int id)
+    {
+        var task = _taskRepository.GetTaskById(id);
+        return View(task);
+    }
+
+    [HttpPost]
+    public IActionResult DeleteConfirmed(int id)
     {
         var task = _taskRepository.GetTaskById(id);
         _taskRepository.DeleteTask(task);
         return RedirectToAction("Index");
     }
 
-    public IActionResult MarkTaskComplete(int id)
+    public IActionResult MarkComplete(int id)
     {
         _taskRepository.MarkComplete(id);
         return RedirectToAction("Index");

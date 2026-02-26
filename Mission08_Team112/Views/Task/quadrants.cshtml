@@ -1,0 +1,229 @@
+@using MissionTask = Mission08_Team112.Models.Task
+@model IEnumerable<MissionTask>
+
+@{
+    ViewData["Title"] = "Quadrants";
+
+    var tasks = Model ?? Enumerable.Empty<MissionTask>();
+
+    var q1 = tasks.Where(t => t.Quadrant == 1 && !t.Completed).ToList();
+    var q2 = tasks.Where(t => t.Quadrant == 2 && !t.Completed).ToList();
+    var q3 = tasks.Where(t => t.Quadrant == 3 && !t.Completed).ToList();
+    var q4 = tasks.Where(t => t.Quadrant == 4 && !t.Completed).ToList();
+
+    string Due(string? due) => string.IsNullOrWhiteSpace(due) ? "—" : due;
+    string Cat(Mission08_Team112.Models.Category? c) => c?.CategoryName ?? "—";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-3">Task Quadrants</h1>
+    <p class="text-muted">Tasks grouped by Quadrant (1–4). Completed tasks are hidden.</p>
+
+    <div class="row g-3">
+
+        <!-- Q1 -->
+        <div class="col-12 col-lg-6">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header fw-bold">Q1: Urgent/Important</div>
+                <div class="card-body">
+                    @if (!q1.Any())
+                    {
+                        <p class="text-muted mb-0">No tasks here.</p>
+                    }
+                    else
+                    {
+                        <table class="table table-sm align-middle mb-0">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th style="width:160px;">Due</th>
+                                    <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var t in q1)
+                            {
+                                <tr>
+                                    <td>@t.TaskName</td>
+                                    <td>@Due(t.DueDate)</td>
+                                    <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Q2 -->
+        <div class="col-12 col-lg-6">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header fw-bold">Q2: Important/Not Urgent</div>
+                <div class="card-body">
+                    @if (!q2.Any())
+                    {
+                        <p class="text-muted mb-0">No tasks here.</p>
+                    }
+                    else
+                    {
+                        <table class="table table-sm align-middle mb-0">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th style="width:160px;">Due</th>
+                                    <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var t in q2)
+                            {
+                                <tr>
+                                    <td>@t.TaskName</td>
+                                    <td>@Due(t.DueDate)</td>
+                                    <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Q3 -->
+        <div class="col-12 col-lg-6">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header fw-bold">Q3: Urgent/Not Important</div>
+                <div class="card-body">
+                    @if (!q3.Any())
+                    {
+                        <p class="text-muted mb-0">No tasks here.</p>
+                    }
+                    else
+                    {
+                        <table class="table table-sm align-middle mb-0">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th style="width:160px;">Due</th>
+                                    <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var t in q3)
+                            {
+                                <tr>
+                                    <td>@t.TaskName</td>
+                                    <td>@Due(t.DueDate)</td>
+                                    <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Q4 -->
+        <div class="col-12 col-lg-6">
+            <div class="card h-100 shadow-sm">
+                <div class="card-header fw-bold">Q4: Not Urgent/Not Important</div>
+                <div class="card-body">
+                    @if (!q4.Any())
+                    {
+                        <p class="text-muted mb-0">No tasks here.</p>
+                    }
+                    else
+                    {
+                        <table class="table table-sm align-middle mb-0">
+                            <thead>
+                                <tr>
+                                    <th>Task</th>
+                                    <th style="width:160px;">Due</th>
+                                    <th style="width:160px;">Category</th>
+                                    <th style="width: 160px;"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var t in q4)
+                            {
+                                <tr>
+                                    <td>@t.TaskName</td>
+                                    <td>@Due(t.DueDate)</td>
+                                    <td>@Cat(t.Category)</td>
+                                    <td class="text-end" style="white-space:nowrap;">
+                                        <a class="btn btn-sm btn-primary"
+                                           asp-controller="Task"
+                                           asp-action="Edit"
+                                           asp-route-id="@t.TaskId">
+                                            Edit
+                                        </a>
+
+                                        <a class="btn btn-sm btn-danger"
+                                           asp-controller="Task"
+                                           asp-action="Delete"
+                                           asp-route-id="@t.TaskId">
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

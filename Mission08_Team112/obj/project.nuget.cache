@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6k8h00zk1GA=",
+  "dgSpecHash": "Yr/+nqOEj6k=",
   "success": true,
   "projectFilePath": "/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Mission08_Team112.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "/Users/mariellesutton/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.3/microsoft.entityframeworkcore.relational.10.0.3.nupkg.sha512",
     "/Users/mariellesutton/.nuget/packages/microsoft.entityframeworkcore.sqlite/10.0.3/microsoft.entityframeworkcore.sqlite.10.0.3.nupkg.sha512",
     "/Users/mariellesutton/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/10.0.3/microsoft.entityframeworkcore.sqlite.core.10.0.3.nupkg.sha512",
+    "/Users/mariellesutton/.nuget/packages/microsoft.entityframeworkcore.tools/10.0.3/microsoft.entityframeworkcore.tools.10.0.3.nupkg.sha512",
     "/Users/mariellesutton/.nuget/packages/microsoft.extensions.dependencymodel/10.0.3/microsoft.extensions.dependencymodel.10.0.3.nupkg.sha512",
     "/Users/mariellesutton/.nuget/packages/microsoft.visualstudio.solutionpersistence/1.0.52/microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "/Users/mariellesutton/.nuget/packages/mono.texttemplating/3.0.0/mono.texttemplating.3.0.0.nupkg.sha512",
