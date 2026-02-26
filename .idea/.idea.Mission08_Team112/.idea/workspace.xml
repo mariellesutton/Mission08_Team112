@@ -10,43 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="434075fc-29a4-423c-8c12-43c758645cab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Models/EFTaskRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Models/EFTaskRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Models/ITaskRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Models/ITaskRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rbcswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rbcswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/staticwebassets.build.json.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Mission08_Team112.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +30,17 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/mariellesutton/Mission08_Team112.git&quot;,
-    &quot;accountId&quot;: &quot;dec9f9bb-00b9-42bb-89f3-454b46a69d05&quot;
+    &quot;url&quot;: &quot;https://github.com/mariellesutton/Mission08_Team112&quot;,
+    &quot;accountId&quot;: &quot;32c3edc3-6742-4d82-8218-79f132714f79&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Mission08_Team112/Controllers/TaskController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Views/Task/confirmation.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Mission08_Team112/wwwroot/lib/jquery/dist/jquery.min.map" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Mission08_Team112/wwwroot/lib/jquery/dist/jquery.slim.min.map" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///usr/local/share/dotnet/sdk/10.0.101/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Models/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mission08_Team112/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="Toolset" />
   </component>
@@ -151,28 +113,28 @@
       <updated>1772037087084</updated>
       <workItem from="1772037089872" duration="6294000" />
       <workItem from="1772122763869" duration="30000" />
-      <workItem from="1772127905986" duration="273000" />
-      <workItem from="1772137910940" duration="4000" />
+      <workItem from="1772122832491" duration="4562000" />
     </task>
+    <task id="LOCAL-00001" summary="It's working">
+      <option name="closed" value="true" />
+      <created>1772124765439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772124765440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="It's working" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
