@@ -30,10 +30,6 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,8 +42,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9lZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/quadrants.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9xdWFkcmFudHMuY3NodG1s
+[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/_ViewImports.cshtml]

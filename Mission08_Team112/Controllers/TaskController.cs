@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Mission08_Team112.Models;
+using Task = Mission08_Team112.Models.Task;
 
 namespace Mission08_Team112.Controllers;
 
@@ -72,9 +73,9 @@ public class TaskController : Controller
         return RedirectToAction("Index");
     }
 
-    public IActionResult MarkComplete(int id)
+    public IActionResult MarkTaskComplete(int id)
     {
-        _taskRepository.MarkComplete(id);
+        _taskRepository.MarkTaskComplete(id);
         return RedirectToAction("Index");
     }
 }
