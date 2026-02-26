@@ -9,7 +9,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="434075fc-29a4-423c-8c12-43c758645cab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Add.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/AddTask.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/confirmation.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +133,7 @@
       <workItem from="1772037089872" duration="6294000" />
       <workItem from="1772122763869" duration="30000" />
       <workItem from="1772122832491" duration="4562000" />
+      <workItem from="1772141279250" duration="1422000" />
     </task>
     <task id="LOCAL-00001" summary="It's working">
       <option name="closed" value="true" />
