@@ -9,10 +9,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="434075fc-29a4-423c-8c12-43c758645cab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/AddTask.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/AddTask.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Add.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mission08_Team112/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/AddTask.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/confirmation.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/Views/Task/edit.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/bin/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mission08_Team112/mission08_tasks.sqlite-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,24 +73,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.Mission08_Team112: http.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Mission08_Team112: http.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "Merging master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Mission08_Team112: http">
     <configuration name="Mission08_Team112: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Mission08_Team112/Mission08_Team112.csproj" />
@@ -117,6 +135,7 @@
       <workItem from="1772037089872" duration="6294000" />
       <workItem from="1772122763869" duration="30000" />
       <workItem from="1772122832491" duration="4562000" />
+      <workItem from="1772141279250" duration="1422000" />
     </task>
     <task id="LOCAL-00001" summary="It's working">
       <option name="closed" value="true" />

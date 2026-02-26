@@ -17,6 +17,7 @@
 
 <div class="container mt-4">
     <h1 class="mb-3">Task Quadrants</h1>
+    <a class="btn btn-success mb-3" asp-controller="Task" asp-action="Add">+ Add Task</a>
     <p class="text-muted">Tasks grouped by Quadrant (1–4). Completed tasks are hidden.</p>
 
     <div class="row g-3">
@@ -61,6 +62,12 @@
                                            asp-action="Delete"
                                            asp-route-id="@t.TaskId">
                                             Delete
+                                        </a>
+                                        <a class="btn btn-sm btn-success"
+                                           asp-controller="Task"
+                                           asp-action="MarkTaskComplete"
+                                           asp-route-id="@t.TaskId">
+                                            Complete
                                         </a>
                                     </td>
                                 </tr>
@@ -113,6 +120,12 @@
                                            asp-route-id="@t.TaskId">
                                             Delete
                                         </a>
+                                        <a class="btn btn-sm btn-success"
+                                           asp-controller="Task"
+                                           asp-action="MarkTaskComplete"
+                                           asp-route-id="@t.TaskId">
+                                            Complete
+                                        </a>
                                     </td>
                                 </tr>
                             }
@@ -164,6 +177,12 @@
                                            asp-route-id="@t.TaskId">
                                             Delete
                                         </a>
+                                        <a class="btn btn-sm btn-success"
+                                           asp-controller="Task"
+                                           asp-action="MarkTaskComplete"
+                                           asp-route-id="@t.TaskId">
+                                            Complete
+                                        </a>
                                     </td>
                                 </tr>
                             }
@@ -214,6 +233,12 @@
                                            asp-action="Delete"
                                            asp-route-id="@t.TaskId">
                                             Delete
+                                        </a>
+                                        <a class="btn btn-sm btn-success"
+                                           asp-controller="Task"
+                                           asp-action="MarkTaskComplete"
+                                           asp-route-id="@t.TaskId">
+                                            Complete
                                         </a>
                                     </td>
                                 </tr>

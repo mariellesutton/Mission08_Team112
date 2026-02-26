@@ -34,12 +34,12 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/AddTask.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9BZGRUYXNrLmNzaHRtbA==
+[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9BZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/confirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9jb25maXJtYXRpb24uY3NodG1s
+[/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFzay9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/Views/Task/edit.cshtml]
