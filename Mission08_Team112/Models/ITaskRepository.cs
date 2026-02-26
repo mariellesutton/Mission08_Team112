@@ -1,16 +1,16 @@
 namespace Mission08_Team112.Models;
 
-    public interface ITaskRepository
-    {
-        List<Task> Tasks { get; }
-        List<Category> Categories { get; }
+public interface ITaskRepository
+{
+    List<Task> Tasks { get; }
+    List<Category> Categories { get; }
 
-        public void AddTask(Task task);
-        public void UpdateTask(Task task);
-        public void DeleteTask(Task task);
+    /// <summary>Returns only tasks where Completed is false (for Quadrants view).</summary>
+    List<Task> GetIncompleteTasks();
 
-        public Task GetTaskById(int id);
-        
-        // NEW: Mark a task as completed (can be done inside UpdateTask, but a helper is nice)
-        public void MarkTaskComplete(int id);
-    }
+    void AddTask(Task task);
+    void UpdateTask(Task task);
+    void DeleteTask(Task task);
+    Task GetTaskById(int id);
+    void MarkTaskComplete(int id);
+}
