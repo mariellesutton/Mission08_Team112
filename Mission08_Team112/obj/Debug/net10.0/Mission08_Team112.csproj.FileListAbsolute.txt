@@ -96,3 +96,16 @@
 /Users/loganjohnson/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb
 /Users/loganjohnson/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.genruntimeconfig.cache
 /Users/loganjohnson/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/ref/Mission08_Team112.dll
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.AssemblyReference.cache
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfoInputs.cache
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.AssemblyInfo.cs
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.csproj.CoreCompileInputs.cache
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.RazorAssemblyInfo.cache
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.RazorAssemblyInfo.cs
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.sourcelink.json
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.dll
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/refint/Mission08_Team112.dll
+/Users/mariellesutton/RiderProjects/Mission08_Team112/Mission08_Team112/obj/Debug/net10.0/Mission08_Team112.pdb

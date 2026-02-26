@@ -25,16 +25,9 @@ public class Task
     [Range(1, 4, ErrorMessage = "Quadrant must be between 1 and 4")]
     public int Quadrant { get; set; }
 
-<<<<<<< HEAD
     // Foreign Key Relationship
     public int? CategoryId { get; set; }
     public Category? Category { get; set; }
 
     public bool Completed { get; set; } = false;
 }
-=======
-        public bool Completed { get; set; } = false;
-        
-        
-    }
->>>>>>> origin/Logan-Quadrants
